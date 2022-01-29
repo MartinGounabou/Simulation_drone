@@ -25,10 +25,15 @@ rostopic pub -1 /Kwad/joint_motor_controller/command std_msgs/Float64MultiArray 
 
 ```
 
-pour lancer la regulation( pas encore terminé)
+pour lancer la regulation
 
 
 ```
 rosrun fly_bot control.py
 
 ```
+
+resultat
+
+[Video](https://youtu.be/50IAZ0us7ZY)
+
